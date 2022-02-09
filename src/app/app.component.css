@@ -1,0 +1,41 @@
+mat-grid-tile {
+    background: white;
+    border-style: solid;
+    border-width: thin;
+}
+
+.header {
+    background-color: white; 
+    color: black;
+}
+
+.mat-grid-tile-content{
+    justify-content: flex-start !important; 
+    padding-left: 30px !important
+}
+
+.material-icons{
+    font-size: 50px;
+}
+
+.mat-list-item-custom{
+    padding: 15px !important;
+}
+
+.mat-grid-tile-header{
+    padding-left: 60px !important;
+    font-size: x-large !important;
+    height: 80px !important;
+}
+
+.texto-icone{
+    padding-left: 40px !important;
+    padding-top: 25px !important;
+    font-size: larger !important;
+    text-decoration: underline;
+}
+
+.texto-normal{
+    font-size: larger !important;
+    padding-left: 17px !important;
+}
